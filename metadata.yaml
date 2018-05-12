@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2129
     wikipedia: http://en.wikipedia.org/wiki/James_Parton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39347#Caricature-and-Other-Comic-Artin-all-Times-and-many-Lands.
 gutenberg_issued: '2012-04-02'
 gutenberg_type: Text
 identifiers:
