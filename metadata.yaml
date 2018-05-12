@@ -1,0 +1,37 @@
+_repo: Caricature-and-Other-Comic-Artin-all-Times-and-many-Lands._39347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parton, James
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '2129'
+    url: http://www.gutenberg.org/2009/agents/2129
+    wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: ''
+gutenberg_issued: '2012-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Caricature -- History'
+tableOfContents: Among the Romans -- Among the Greeks -- Among the ancient Egyptians
+  -- Among the Hindoos -- Religious caricature in the Middle Ages -- Secular caricature
+  in the Middle Ages -- Caricatures preceding the Reformation -- Comic art and the
+  Reformation -- In the Puritan period -- Later Puritan caricature -- Preceding Hogarth
+  -- Hogarth and his time -- English Caricature in the Revolutionary period -- During
+  the French Revolution -- Caricatures of women and matrimony -- Among the Chinese
+  -- Comic art in Japan -- French caricature -- Later French caricature -- Comic art
+  in Germany -- Comic art in Spain -- Italian caricature -- English caricature of
+  the present century -- Comic art in "Punch" -- Early American caricature -- Later
+  American caricature.
+title: Caricature and Other Comic Art in All Times and Many Lands.
+url: http://www.gutenberg.org/ebooks/39347
